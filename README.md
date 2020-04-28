@@ -1,2 +1,2 @@
-# Intro To Reproducible ML
+# Intro to Reproducible ML
 In progress ...
